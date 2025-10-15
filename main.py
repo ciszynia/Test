@@ -108,3 +108,7 @@ trueIsFalse = True is False
 helloCompare1 = "hello" > "helloo"
 helloCompare2 = "helloo" > "hello"
 print(":)")
+# 7.
+helloCompare3 = "world" > "wooorld"
+helloCompare4 = "wooorld" > "world"
+print(":)")
