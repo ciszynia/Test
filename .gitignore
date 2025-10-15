@@ -1,1 +1,2 @@
-git rm -r --cached secrets
+#git rm -r --cached secrets
+secrets/
