@@ -1,2 +1,2 @@
-#git rm -r --cached secrets
+git rm --cached secrets/passwords.txt
 secrets/
